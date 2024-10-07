@@ -1,0 +1,6 @@
+# ninja log v5
+11	345	7499789327366355	CMakeFiles/MyCalculator.dir/main.cpp.obj	7cb4fe74962589fa
+11	81	7499788894894133	CMakeFiles/MyCalculator.dir/src/Calculator.cpp.obj	3f36ef40c9f4cef0
+346	1856	7499789328703184	MyCalculator.exe	d8bbdc4b2e2ea411
+11	350	7499789643609954	CMakeFiles/MyCalculator.dir/main.cpp.obj	7cb4fe74962589fa
+350	944	7499789644939012	MyCalculator.exe	d8bbdc4b2e2ea411

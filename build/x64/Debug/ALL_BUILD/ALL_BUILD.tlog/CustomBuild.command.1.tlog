@@ -1,0 +1,10 @@
+^C:\USERS\320265152\WORKSPACE\CMAKE_LEARN\MYCALCULATOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/320265152/workspace/cmake_learn/MyCalculator -BC:/Users/320265152/workspace/cmake_learn/MyCalculator/build --check-stamp-file C:/Users/320265152/workspace/cmake_learn/MyCalculator/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

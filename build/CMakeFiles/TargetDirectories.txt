@@ -1,0 +1,3 @@
+C:/Users/320265152/workspace/cmake_learn/MyCalculator/build/CMakeFiles/MyCalculator.dir
+C:/Users/320265152/workspace/cmake_learn/MyCalculator/build/CMakeFiles/edit_cache.dir
+C:/Users/320265152/workspace/cmake_learn/MyCalculator/build/CMakeFiles/rebuild_cache.dir

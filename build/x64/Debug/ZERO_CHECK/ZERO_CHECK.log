@@ -1,0 +1,7 @@
+﻿  1>Checking Build System
+  CMake is re-running because generate.stamp.list is missing.
+  -- Configuring done (1.0s)
+  -- Generating done (0.0s)
+  -- Build files have been written to: C:/Users/320265152/workspace/cmake_learn/MyCalculator/build
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(237,5): warning MSB8064: Custom build for item "C:\Users\320265152\workspace\cmake_learn\MyCalculator\build\CMakeFiles\42a3ae14333f8e14fd2b459b157e835c\generate.stamp.rule" succeeded, but specified dependency "c:\users\320265152\workspace\cmake_learn\mycalculator\build\cmakefiles\42a3ae14333f8e14fd2b459b157e835c\generate.stamp.rule" does not exist. This may cause incremental build to work incorrectly.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(237,5): warning MSB8065: Custom build for item "C:\Users\320265152\workspace\cmake_learn\MyCalculator\build\CMakeFiles\42a3ae14333f8e14fd2b459b157e835c\generate.stamp.rule" succeeded, but specified output "c:\users\320265152\workspace\cmake_learn\mycalculator\build\cmakefiles\generate.stamp" has not been created. This may cause incremental build to work incorrectly.
